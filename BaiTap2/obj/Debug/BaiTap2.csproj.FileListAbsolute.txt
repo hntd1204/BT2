@@ -1,0 +1,6 @@
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/bin/Debug/BaiTap2.exe
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/bin/Debug/BaiTap2.pdb
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/obj/Debug/BaiTap2.csproj.AssemblyReference.cache
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/obj/Debug/BaiTap2.csproj.CoreCompileInputs.cache
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/obj/Debug/BaiTap2.exe
+/Users/huynhnguyenthanhdat/Desktop/VSCode2019/BaiTap2/BaiTap2/obj/Debug/BaiTap2.pdb
